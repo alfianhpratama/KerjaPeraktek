@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00CC00</color>
+    <color name="colorPrimaryDark">#00FF00</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="abu">#22222F</color>
+    <color name="BlueGrey50">#ECEFF1</color>
+
+    <color name="putih">#FFFF</color>
+    <color name="utama">#00FF00</color>
+    <color name="wakil">#66FF66</color>
+    <color name="teks_warna">#006600</color>
+    <color name="teks">#000</color>
+
+</resources>
